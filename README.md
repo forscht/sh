@@ -27,5 +27,5 @@ bash -c "$(wget -O- https://raw.githubusercontent.com/iroguesniper/sh/master/ins
 
 ### Install latest docker on ubuntu 18.04 based distro
 ```shell script
-bash -c "$(wget -O- https://raw.githubusercontent.com/iroguesniper/sh/master/install_node12_debian_distro.sh)"
+bash -c "$(wget -O- https://raw.githubusercontent.com/iroguesniper/sh/master/install_docker_ubuntu1804_based_distro.sh)"
 ```
