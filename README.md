@@ -25,17 +25,17 @@ bash -c "$(wget -O- https://raw.githubusercontent.com/iroguesniper/sh/master/oh_
 bash -c "$(wget -O- https://raw.githubusercontent.com/forscht/sh/master/node12_debian_distro.sh)"
 ```
 
-### Install nodejs v16 on debian based distro
+#### Install nodejs v16 on debian based distro
 ```shell script
 bash -c "$(wget -O- https://raw.githubusercontent.com/forscht/sh/master/node16_debian_distro.sh)"
 ```
 
-### Install latest docker on ubuntu 18.04 based distro
+#### Install latest docker on ubuntu 18.04 based distro
 ```shell script
 bash -c "$(wget -O- https://raw.githubusercontent.com/iroguesniper/sh/master/ubuntu1804/docker_ubuntu_based_distro.sh)"
 ```
 
-### Install latest docker on ubuntu 20.04 based distro
+#### Install latest docker on ubuntu 20.04 based distro
 ```shell script
 bash -c "$(wget -O- https://raw.githubusercontent.com/iroguesniper/sh/master/ubuntu2004/docker_ubuntu_based_distro.sh)"
 ```
